@@ -1,0 +1,14 @@
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/MyConsoleNewApp
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/MyConsoleNewApp.deps.json
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/MyConsoleNewApp.runtimeconfig.json
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/MyConsoleNewApp.runtimeconfig.dev.json
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/MyConsoleNewApp.dll
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/MyConsoleNewApp.pdb
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/obj/Release/netcoreapp3.1/MyConsoleNewApp.csproj.AssemblyReference.cache
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/obj/Release/netcoreapp3.1/MyConsoleNewApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/obj/Release/netcoreapp3.1/MyConsoleNewApp.AssemblyInfoInputs.cache
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/obj/Release/netcoreapp3.1/MyConsoleNewApp.AssemblyInfo.cs
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/obj/Release/netcoreapp3.1/MyConsoleNewApp.csproj.CoreCompileInputs.cache
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/obj/Release/netcoreapp3.1/MyConsoleNewApp.dll
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/obj/Release/netcoreapp3.1/MyConsoleNewApp.pdb
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/obj/Release/netcoreapp3.1/MyConsoleNewApp.genruntimeconfig.cache

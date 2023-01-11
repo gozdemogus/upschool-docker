@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{1FFAB154-09FF-4D1D-B1BA-79471EBFCEC6}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyConsoleNewApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

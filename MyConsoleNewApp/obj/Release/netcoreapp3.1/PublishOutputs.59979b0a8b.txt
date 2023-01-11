@@ -1,0 +1,5 @@
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/publish/MyConsoleNewApp
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/publish/MyConsoleNewApp.dll
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/publish/MyConsoleNewApp.deps.json
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/publish/MyConsoleNewApp.runtimeconfig.json
+/Users/gozdemogus/Projects/MyNewApp/MyConsoleNewApp/bin/Release/netcoreapp3.1/publish/MyConsoleNewApp.pdb
